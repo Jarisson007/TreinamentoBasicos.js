@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="pt-BR"class>
+<head>
+    <meta charset="UTF-8">
+    <title>Foco nos objetivos</title>
+    <link rel="stylesheet" href="treino css/treino.css">
+    <style>
+        h1 {
+            text-align: center;
+        }
+        h2 {
+            text-align: center;
+        }
+        p {
+            text-align: justify;
+        }
+    </style>
+    <title>Alterar a cor de fundo de tela</title>
+    <style>
+        body {
+            background-color: rgb(0, 0, 0);
+        }
+    </style>
+</head>
+<body>
+    <div style="max-width: 740px;">
+            <h1><em><!-- o "em" está sendo utilizado para deixar a frase em questão, em negrito e italico -->
+                Dicas para alcançar seus Objetivos</em></h1>
+            <nav> <!-- codigo para inserir os links na parte superior de navegação da tela, 
+                dando a oportunidade do usuario ir a outra pagina -->
+                <ul class="menu">
+                        <li>
+                            <a href="Home.html" alt= "Pagina Inicial" class="current">Home</a><br>
+                        </li>
+                        <li>
+                            <a href="https://www.psitto.com.br/contato/" alt= "Conheça nossos Piscologos">Psicólogos</a><br>
+                        </li>
+                        <li>
+                            <a href="WhatsApp.html" alt= "Nosso WhatsApp">WhatsApp</a><br>
+                        </li>
+                        <li> <a href="Redes sociais" alt= "Nossas redes sociais"> Instagram</a><br>
+                        </li>
+                        <li>
+                            <a href="https://www.google.com/" alt= "Ir para o google">Google</a><br>
+                        </li>
+                </ul>
+            </nav>
+            <h2>Objetivo significa o fim que se deseja atingir, a meta que se pretende alcançar.</h2>
+            <p>Tomemos como exemplo uma pessoa que deseja correr uma maratona. Para isso, ela vai ter que traçar um planejamento. 
+                O objetivo é participar da corrida e completar os seus 42 Km. Já as metas serão entendidas como o planejamento de marcos que possa tornar possível o seu desejo.</p>
+            <p> Para manter nosso foco nos objetivos, abaixo temos algumas dicas de como manter a sanidade e o foco nos seus objetivos</p>
+    <style>
+        h1 {
+            color: rgb(241, 241, 241);
+        }
+        h2 {
+            color: aliceblue;
+        }
+        p {
+            color: aliceblue;
+        }
+    </style>
+    <style>
+        ol {
+            color: aliceblue;
+        }
+    </style>
+    <html>
+        <head>
+            <title>Centralizar imagem</title>
+            <style>
+                #imagem1 {
+                    float: left;
+                    margin-right: 50px;
+                    display: block;
+                    margin: 2000 auto;
+                }
+            </style>
+        </head>
+        <body>
+            <img src="imagem 1.jpg.jfif" id= "imagem1" alt="Desenhando a escada dos seus objetivos alcançar">
+            <ol>
+                <li>
+                    Crie um cronograma 
+                </li>
+                <li>
+                    Mantenha uma alimentação saúdavel para lhe ajudar no dia-a-dia
+                </li>
+                <li>
+                    Escoha uma boa playlist de musica para ouvir em momentos de descanço
+                </li>
+                <li>
+                    Torne um habito fazer exercicios fisicos, ajudará bastante em seu desenvolvimento
+                </li>
+                <li>
+                    Tenha um saco de pancadas em sua casa, aliviar o estresse e toda raiva é essencial, por este motivo, em vez de agredir seu amigo, agrida o saco de pancadas.
+                </li>
+            </ol>
+        </body>
+
+            <form>
+                <label for="pergunta">Caso você deseja ajuda do esquadrão do socorro,
+                insira seu e-mail ou telefone e breve entraremos em contato:</label>
+                <input type="text" id="pergunta" name="pergunta">
+                <input type="submit" value="Enviar"> <!-- Dentro deste input voc~e terá a opção da caixa
+                para inserir o e-mail, conforme solicitado e em seguida você utilizará o botão de enviar -->
+            </form>
+            
+            <style>
+                label {
+                    color: aliceblue;
+                }
+                </style>
+                <p>
+                    O objetivo é o propósito de realizar algo ou onde se quer chegar. Ou seja, é o ponto final que representa um resultado e fornece a direção do que se deseja e deve fazer. 
+                    Nesse sentido, serve como guia para que um desejo ou sonho seja finalmente realizado.
+                </p>
+                <img src="giff1.gif" id= "imagem2" alt="GIF animado">
+                <style>
+                    #imagem2 {
+                        display:block;
+                      margin-left: 0;
+                      margin-right: 100;
+                    }
+                    </style>
+  </body>
+  </html>
+  
+

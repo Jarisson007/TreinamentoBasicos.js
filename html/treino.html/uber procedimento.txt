@@ -1,0 +1,17 @@
+colocaborador que está no centro de custo livre - que possuam um ticket medio para gastar ao mes, com orçamento estabelecido. 
+Esse centro de custo, vai criar um grupo na area de colaboradores, para os mesmos semrem convidados para entrar nesse grupo. E dentro de programa, 
+cria um programa, pq tem que cliclar no programa para definir no limite de dispesa o valor dos 700 reais que ficaria disponibilixado para esses colabores.
+ 
+
+Um grupo para um programa ( o correto), só irá criar um novo grupo, se for um novo centro de custo que não exista. 
+
+No caso de existir um centro de custo e não existir um orçamento. Caso os colabores sejam inseridos 
+
+dar mais dinhieiro ao colaborador, vai no programa, editar o centro de custo que você seleciona (O valor que vc inserir, não vai aumentar apenas para uma pessoa,
+aumentará para todos que fazem parte deste centro de custo. 
+
+CADASTRAR O CENTRO DE CUSTO - MMVOCÊ VAI PRECISAR CRIAR UM GRUPO PARA GERAR ATÉ UM CENTRO DE CUSTO 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+valor de orçamento dividido por quantidade de colaboradores 

@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .left-panel {
+    flex: 1;
+    background-color: #d62a2a;
+    /* Define o tamanho do painel esquerdo */
+  }
+  
+  .right-panel {
+    flex: 1;
+    background-color: #c7be6f;
+    /* Define o tamanho do painel direito */
+  }
+  
